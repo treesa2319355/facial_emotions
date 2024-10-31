@@ -1,4 +1,4 @@
-# Face_Emotion_Recognition_Machine_Learning
+# FER_Convolutional_Neural_Network
 FER CNN deep learning technique
 
 
